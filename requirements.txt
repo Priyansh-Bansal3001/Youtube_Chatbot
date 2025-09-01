@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-huggingface
+transformers
+accelerate
+torch
+sentence-transformers
+youtube-transcript-api
+bitsandbytes
+safetensors
